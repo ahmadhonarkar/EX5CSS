@@ -1,0 +1,40 @@
+/* CSS Document */
+@font-face{
+	font-family: iran;
+	src: url('IRANYekanMedium.ttf');
+	font-family: nazanin;
+	src: url('BNazanin.ttf');
+}
+body{
+	margin: 0px 0px 0px 0px;
+	background-color: #e4e4f7ea
+	
+}
+h1{
+	color: red;
+	width: auto ;
+	font-family: iran;
+	direction: rtl;
+	position: static;
+}
+h2{
+	color: blue;
+	width: auto ;
+	font-family: iran;
+	direction: rtl;
+	position: static;
+}
+h3{
+	font-family: Nazanin;
+	font-size: 20px;
+	color: #244185;
+}
+p{
+	font-family: Nazanin;
+	font-size: 20px;
+	color: #244185;
+	text-align: right;
+	position: static;
+	right: 200px;
+	height: 10px;
+}
